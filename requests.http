@@ -1,0 +1,2 @@
+### All Weather Forecast data
+curl https://localhost:7047/weatherforecast
