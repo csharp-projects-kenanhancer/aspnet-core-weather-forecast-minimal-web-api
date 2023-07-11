@@ -13,6 +13,8 @@ dotnet build
 dotnet run
 ```
 
+> Update port number in curl requests after running project. You can find it in Debug Console
+
 ## All Weather Forecast data
 ```shell
 curl https://localhost:7047/weatherforecast
